@@ -10,13 +10,13 @@ sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/apac
 
 clear
 
-chmod 777 data.sh
+chmod 775 data.sh
 
-chmod 777 remove.sh
+chmod 775 remove.sh
 
-chmod 777 java.sh
+chmod 775 java.sh
 
-chmod 777 apache2.sh
+chmod 775 apache2.sh
 
 ./remove.sh
 
