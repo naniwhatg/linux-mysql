@@ -1,0 +1,9 @@
+1: mysql -u root -p or mysql
+
+2: UPDATE mysql.user SET Password = PASSWORD('password') WHERE User = 'root';
+
+3: UPDATE mysql.user SET authentication_string = PASSWORD('password') WHERE User = 'root';
+
+4: FLUSH PRIVILEGES;
+
+5: SELECT User, Host, authentication_string FROM mysql.user;
