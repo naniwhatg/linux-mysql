@@ -2,4 +2,4 @@
 
 # code to get the data.sh: sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/data.sh
 
-# then write chmod 777 data.sh and /data.sh
+# then write chmod 777 data.sh and ./data.sh
