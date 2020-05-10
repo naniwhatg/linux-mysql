@@ -1,4 +1,4 @@
-sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/java.sh
+sudo wget https://raw.githubusercontent.com/costantino03/linux-mysql/master/java.sh2
 
 clear
 
